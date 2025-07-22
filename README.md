@@ -18,17 +18,14 @@
 </a>
 </p>
 
-<div align="center">
 
-#### 🏆 GitHub Trophies
+
 
 ![](https://github-profile-trophy.vercel.app/?username=sghangaan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 | ![](https://github-readme-stats.vercel.app/api?username=sghangaan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=sghangaan&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sghangaan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-
-#### 💻 Languages and Tools :
 
 ![React.js](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=React.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React%20Native&logoColor=white)
