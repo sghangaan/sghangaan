@@ -1,4 +1,5 @@
-<img width="3840" height="1200" alt="sghangaan_header" src="https://github.com/user-attachments/assets/b6ee12bb-8156-4729-9922-d46b65a187c4" />
+<img width="3840" height="1200" alt="sghangaan_Ronshimon-Robot" src="https://github.com/user-attachments/assets/54855aa7-41e1-4246-9c8c-824b937b2927" />
+
 
 <div align="center">
 <br>
