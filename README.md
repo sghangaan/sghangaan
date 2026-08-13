@@ -233,7 +233,8 @@ What keeps me going is the problem-solving. Every project is a puzzle: figuring 
     <a href="https://drive.google.com/file/d/1i8N37FSPZNGPdUo9lIjN5k2BLqDUFjr8/view?usp=sharing">Google Cybersecurity Professional Certificate</a> <small>(Dec 2023)</small><br/>
     <a href="https://drive.google.com/file/d/1dx85407OiNuySD8qurPxmar2pvAaYrWV/view?usp=sharing">Google Data Analytics Professional Certificate</a> <small>(Oct 2023)</small><br/>
     <a href="https://drive.google.com/file/d/1PDPRrov0Hi1LKshoIrZc8QcSSZ5WuWuO/view?usp=sharing">Google Project Management Certificate</a> <small>(Jul 2023)</small><br/>
-    <a href="https://drive.google.com/file/d/1MYIVFm0T6tm62WdKxz9IDQl3062AI8Y5/view?usp=sharing">Google IT Support Professional Certificate</a> <small>(Mar 2023)</small>
+    <a href="https://drive.google.com/file/d/1MYIVFm0T6tm62WdKxz9IDQl3062AI8Y5/view?usp=sharing">Google IT Support Professional Certificate</a> <small>(Mar 2023)</small><br/>
+    <a href="https://drive.google.com/file/d/1Mhh0MQ1M_psQUWIis8MP9_VzRGaUEzhS/view?usp=sharing">Google Advanced Data Analytics Professional Certificate</a> <small>(Oct 2023)</small>
   </td>
 </tr>
 
@@ -279,13 +280,6 @@ What keeps me going is the problem-solving. Every project is a puzzle: figuring 
   <td valign="top"><b>NEU Tech Center</b></td>
   <td>
     <a href="https://drive.google.com/file/d/1_OO4TmVZUNpKVQobOeT715AxIqYi7sme/view?usp=sharing">Basic Training on Cybersecurity and Capture-the-Flag Competition</a> <small>(Apr 2024)</small>
-  </td>
-</tr>
-
-<tr>
-  <td valign="top"><b>Coursera</b></td>
-  <td>
-    <a href="https://drive.google.com/file/d/1Mhh0MQ1M_psQUWIis8MP9_VzRGaUEzhS/view?usp=sharing">Google Advanced Data Analytics Professional Certificate</a> <small>(Oct 2023)</small>
   </td>
 </tr>
 
