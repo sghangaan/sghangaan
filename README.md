@@ -161,8 +161,6 @@ What keeps me going is the problem-solving. Every project is a puzzle: figuring 
 <details>
 <summary><b>Also worked with — data & ML coursework</b></summary>
 
-<br/>
-
 <img src="https://img.shields.io/badge/NumPy-11161d?style=flat-square&logo=numpy&logoColor=4dabcf&labelColor=11161d"/>
 <img src="https://img.shields.io/badge/Pandas-11161d?style=flat-square&logo=pandas&logoColor=b39ddb&labelColor=11161d"/>
 <img src="https://img.shields.io/badge/Matplotlib-11161d?style=flat-square&logoColor=11557C&labelColor=11161d"/>
