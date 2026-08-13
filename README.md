@@ -15,8 +15,6 @@
 
 Hi, I'm Ace. I'm a Mid-fullstack developer who builds web experiences from the ground up — from the interfaces people interact with to the systems working quietly behind them. I work mostly with modern JavaScript frameworks and cloud-based tooling, and I care a lot about writing code that's clean, fast, and easy for the next person to pick up.
 
-<br/>
-
 What keeps me going is the problem-solving. Every project is a puzzle: figuring out why something breaks, finding a simpler way to build it, or turning a rough idea into something that actually works. Because where passion meets programming, extraordinary things happen.
 
 <br/>
@@ -304,16 +302,4 @@ What keeps me going is the problem-solving. Every project is a puzzle: figuring 
 
 </div>
 
-<hr/>
 
-<tr>
-    <td>
-        <div align="center">
-            <sub>Open to interesting problems — 
-            <a href="mailto:sghangaan@gmail.com">sghangaan@gmail.com</a>
-            </sub>
-        </div>
-    </td>
-</tr>
-
-<br>
