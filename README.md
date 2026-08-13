@@ -17,8 +17,6 @@ Hi, I'm Ace. I'm a Mid-fullstack developer who builds web experiences from the g
 
 What keeps me going is the problem-solving. Every project is a puzzle: figuring out why something breaks, finding a simpler way to build it, or turning a rough idea into something that actually works. Because where passion meets programming, extraordinary things happen.
 
-<br/>
-
 ## Toolbox
 
 <table>
