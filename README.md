@@ -172,7 +172,6 @@ What keeps me going is the problem-solving. Every project is a puzzle: figuring 
 
 </details>
 
-<br/>
 
 ## Education
 
